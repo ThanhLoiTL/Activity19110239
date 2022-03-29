@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyActivity19110239</string>
+    <string name="heading">CÔNG CỤ TÍNH LÃI TIỀN GỬI</string>
+    <string name="sotiengui">Số tiền gửi*</string>
+    <string name="btnXemKetQua">XEM KẾT QUẢ</string>
+    <string name="kyHanGui">Kỳ hạn gửi*</string>
+    <string name="laiXuatGui">Lãi xuất gửi*</string>
+    <string name="take_a_picture">TAKE A PICTURE</string>
+    <string name="solainhanduoc">Số tiền lãi nhận được</string>
+    <string name="tongtien">Tổng số tiền nhận được khi hết hạn</string>
+</resources>
